@@ -1,0 +1,15 @@
+/* myfirstcss.css */
+body {
+    background-color: aqua 
+color: #ffffff
+}
+h1 {
+    color: forestgreen
+    text-align: center;
+    font: italic 200% Open-Sans;
+}
+p {
+    background-color: blue
+    color: #ffffff
+    text-align-left
+}
